@@ -1,10 +1,12 @@
 import React from 'react';
 
-function Index(props) {
-    return (
-        <div>
-        </div>
-    );
+function Index() {
+  return (
+    <div>
+
+      jj
+    </div>
+  );
 }
 
 export default Index;
